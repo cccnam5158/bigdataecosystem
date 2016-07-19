@@ -5,27 +5,27 @@
 아래의 분류는 아래의 프로젝트를 기반으로 합니다.
 향후, 한글화 될 것이고 재분류될 예정 입니다.
 
-Distributed File System 
-Distributed Programming 
-NoSQL Databases 
-  Column Data Model 
-  Document Data Model 
-  Stream Data Model 
-  Key-Value Data Model 
-  Graph Data Model 
-NewSQL Databases 
-SQL-on-Hadoop 
-Data Ingestion 
-Service Programming 
-Scheduling 
-Machine Learning 
-Benchmarking and QA Tools 
-Security 
-Metadata Management 
-System Deployment 
-Applications 
-Development Frameworks 
-Categorizing Pending.. 
+1. Distributed File System 
+2. Distributed Programming 
+3. NoSQL Databases 
+4. Column Data Model 
+  * Document Data Model 
+  * Stream Data Model 
+  * Key-Value Data Model 
+  * Graph Data Model 
+5. NewSQL Databases 
+6. SQL-on-Hadoop 
+7. Data Ingestion 
+8. Service Programming 
+9. Scheduling 
+10. Machine Learning 
+11. Benchmarking and QA Tools 
+12. Security 
+13. Metadata Management 
+14. System Deployment 
+15. Applications 
+16. Development Frameworks 
+17. Categorizing Pending.. 
 
 Ref : https://hadoopecosystemtable.github.io/
 
